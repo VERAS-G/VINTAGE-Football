@@ -1,0 +1,27 @@
+VINTAGE — ASSETS / CREDITS
+
+The project uses web-hosted images so the folder remains lightweight. The URLs below are referenced by the frontend.
+
+1) Brazil 1994 kit body — Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:Kit_body_brazil1994WC.png
+License: CC BY-SA 4.0 — author Zotteteen1.
+
+2) Argentina 1998 training kit body — Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:Kit_body_arg98tr.png
+License: CC BY-SA 4.0 — author KoreanDragon.
+
+3) Manchester United 1999-00 kit body — Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:Kit_body_manutda9900.png
+License: CC BY-SA 3.0 — author VEO15.
+
+4) AC Milan 1989-90 home kit body — Wikimedia Commons
+https://commons.wikimedia.org/wiki/File:Kit_body_acmilan8990h.png
+License: CC BY-SA 3.0 — author Zotteteen1.
+
+5) Stadium photography — Unsplash
+https://unsplash.com/photos/an-empty-stadium-filled-with-lots-of-seats-WRPP6q07miE
+Free to use under the Unsplash License — Winston Tjia.
+
+6) Additional atmospheric football photography is referenced from Unsplash URLs in css/hero.css.
+
+NOTE: The product names and prices are fictional frontend-demo catalog data. This project does not connect to a real payment provider or inventory backend.
